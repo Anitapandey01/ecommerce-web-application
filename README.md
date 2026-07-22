@@ -86,7 +86,7 @@ Ecommerce/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Anitapandey01/Ecommerce.git
+git clone https://github.com/Anitapandey01/ecommerce-web-application.git
 ```
 
 ### Backend
